@@ -1,2 +1,2 @@
 # Consumindo API com Python
-Consumindo API utilizando Python
+Consumindo APIs utilizando Python
